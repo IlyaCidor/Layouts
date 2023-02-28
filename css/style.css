@@ -8,15 +8,23 @@ body {
     font-family: Barlow_Regular;
 }
 
+.picture-container {
+    position: relative;
+}
+
+.picture {
+    position: relative;
+}
+
 .logo {
-    width: 20vw;
+    width: 20%;
 }
 
 .header__logo {
     position: absolute;
     z-index: 2;
-    left: 5vw;
-    top: 5vw; 
+    left: 5%;
+    top: 5%; 
 }
 
 .content {
@@ -325,11 +333,6 @@ body {
         width: 15%;
     }
 
-    .header__logo {
-        top: 5%;
-        left: calc(35% - 150px);
-    }
-
     .content {
         padding: 32px;
     }
@@ -375,7 +378,7 @@ body {
     }
 
     .picture {
-        width: 70vw
+        width: 70vw;
     }
 
     .logo {
@@ -430,11 +433,6 @@ body {
 
     .logo {
         width: 120px;
-    }
-
-    .header__logo {
-        top: 112px;
-        left: calc(50% - 660px)
     }
 
     .content {
