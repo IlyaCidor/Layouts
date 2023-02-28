@@ -270,11 +270,11 @@ body {
     }
 
     .picture-container{
-        width: 100vw;
+        width: 100%;
     }
 
     .picture {
-        width: 100vw
+        width: 100%;
     }
 
     .content {
@@ -370,11 +370,11 @@ body {
     }
 
     .picture-container{
-        width: 70vw;
+        width: 70%;
     }
 
     .picture {
-        width: 70vw;
+        width: 100%;
     }
 
     .content {
@@ -422,7 +422,7 @@ body {
     .picture-container{
         width: 720px; 
     }
-    
+
     .picture {
         width: 100%;
     }
