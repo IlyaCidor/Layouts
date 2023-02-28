@@ -1,0 +1,12 @@
+@font-face {
+    font-family: Barlow_Light;
+    src: local("fonts/Barlow-Light.otf"),
+    url("../fonts/Barlow-Light.otf");
+}
+
+@font-face {
+    font-family: Barlow_Regular;
+    src: local("fonts/Barlow-Reguler.otf"),
+    url("../fonts/Barlow-Regular.otf");
+}
+
