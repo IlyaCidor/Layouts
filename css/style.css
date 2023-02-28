@@ -422,10 +422,14 @@ body {
     .picture-container{
         width: 720px; 
     }
+    
+    .picture {
+        width: 100%;
+    }
 
     .content {
         justify-content: space-around;
-        width: 50%;
+        width: 720px;
         padding: 80px;
     }
 
