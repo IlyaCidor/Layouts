@@ -8,6 +8,17 @@ body {
     font-family: Barlow_Regular;
 }
 
+.logo {
+    width: 20vw;
+}
+
+.header__logo {
+    position: absolute;
+    z-index: 2;
+    left: 5vw;
+    top: 5vw; 
+}
+
 .content {
     background-color: #FFFFFF;
     display: flex;
@@ -30,17 +41,6 @@ body {
 
 .section:first-of-type .paragraph {
     font-size: 18px; 
-}
-
-.logo {
-    width: 20vw;
-}
-
-.header__logo {
-    position: absolute;
-    z-index: 2;
-    left: 5vw;
-    top: 5vw; 
 }
 
 .button {
